@@ -4,7 +4,7 @@
 
 | Read     | link |
 | ----------- | ----------- |
-| Read 1     | [link 1](https://slasherme.github.io/Reading-notes/class-01)       |
+| Read 1     | [link 1](https://slasherme.github.io/reading-notes/class-01)       |
 | Read 2     | [link 2]()       |
 | Read 3     | [link 3]()       |
 | Read 4     | [link 4]()       |
