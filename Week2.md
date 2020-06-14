@@ -19,6 +19,11 @@ elRooms .textContent = hotel .checkAvailability(};
 ```
 # DOM MODEL:
 * The browser represents the page using a DOM tree.
+* DOM(document object module): a set of rules implemented by internet browsers to specify how an html page loads and how javascript access and edit the html page content.
+
+dom tree: when the browser load the page it creates a model of that page and store it in the memory. it consists of nodes, each represents an hatm tag or an attribute, and it links between them as the family tree.
+
+
 * DOM trees have four types of nodes: document nodes,
 element nodes, attribute nodes, and text nodes.
 * You can select element nodes by their id or cl ass
@@ -34,3 +39,10 @@ child elements that are siblings of each other.
 inconsistent (and is a popular reason for using jQuery).
 * Browsers offer tools for viewing the DOM tree .
 ••
+```
+to apply the same set of statements for all node loops(especially for loop) to repeat the same statements for each node within the nodeList. *EX:
+var redParag = document.querySelectorAll('p.red-background')
+for (var i = 0; i < redParag.length; i++) {
+redParag[i].className = 'blue-background';
+}
+```
