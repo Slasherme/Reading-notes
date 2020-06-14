@@ -1,4 +1,10 @@
+From the Duckett HTML book:
 
+Chapter 3: “Lists” (pp.62-73)
+Chapter 13: “Boxes” (pp.300-329)
+From the Duckett JS book:
+
+Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
 # Lists:
 * Ordered lists are lists where each item in the list is
 numbered. For example, the list might be a set of steps for
@@ -70,5 +76,5 @@ set of comparison operators.
 option if none match).
 1 . Data types can be coerced from one type to another.
 1 . All values evaluate to either truthy or falsy.
-1 . There are three types of loop: for, while, and
-1 . do ... while. Each repeats a set of statements.
+1There are three types of loop: for, while, and
+do ... while. Each repeats a set of statements.
