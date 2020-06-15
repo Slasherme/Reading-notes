@@ -9,7 +9,7 @@
 | Read 3     | [link 3](https://slasherme.github.io/reading-notes/Read3)       |
 | Read 4     | [link 4](https://slasherme.github.io/reading-notes/Read5)       |
 | Read 5     | [link 5](https://slasherme.github.io/reading-notes/Week2)       |
-| Read 6     | [link 6]()       |
+| Read 6     | [link 6](https://slasherme.github.io/reading-notes/Week22)       |
 | Read 7     | [link 7]()       |
 | Read 8     | [link 8]()       |
 | Read 9     | [link 9]()       |
